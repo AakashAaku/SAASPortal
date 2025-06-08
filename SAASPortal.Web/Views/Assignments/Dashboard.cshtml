@@ -1,0 +1,27 @@
+﻿@* Views/Faculty/Dashboard.cshtml *@
+<div class="chart-container">
+    <canvas id="performanceChart"></canvas>
+</div>
+
+@section Scripts {
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+        $(function() {
+            $.get('/Faculty/GetPerformanceData', function(data) {
+                new Chart(
+                    document.getElementById('performanceChart'),
+                    {
+                        type: 'bar',
+                        data: {
+                            labels: data.labels,
+                            datasets: [{
+                                label: 'Average Scores',
+                                data: data.values
+                            }]
+                        }
+                    }
+                );
+            });
+        });
+    </script>
+}

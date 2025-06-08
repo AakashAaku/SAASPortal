@@ -1,0 +1,38 @@
+﻿@* Views/Assignments/Index.cshtml *@
+@model IEnumerable<SAASPortal.Core.DTOs.AssignmentDto>
+
+@{
+    ViewData["Title"] = "Assignments";
+    Layout = "_Layout";
+}
+
+<div class="container">
+    <h2>Assignments</h2>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Due Date</th>
+                <th>Course</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Title</td>
+                    <td>@item.DueDate.ToString("MM/dd/yyyy")</td>
+                    <td>@item.CourseName</td>
+                    <td>
+                        <a asp-action="Details" asp-route-id="@item.AssignmentId" class="btn btn-info">View</a>
+                        @if (User.IsInRole("Faculty"))
+                        {
+                            <a asp-action="Grade" asp-route-id="@item.AssignmentId" class="btn btn-warning">Grade</a>
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
