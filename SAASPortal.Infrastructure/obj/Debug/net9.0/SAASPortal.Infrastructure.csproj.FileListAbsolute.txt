@@ -1,0 +1,15 @@
+E:\Projects\.NET\SAASPortal\SAASPortal.Infrastructure\bin\Debug\net9.0\SAASPortal.Infrastructure.deps.json
+E:\Projects\.NET\SAASPortal\SAASPortal.Infrastructure\bin\Debug\net9.0\SAASPortal.Infrastructure.dll
+E:\Projects\.NET\SAASPortal\SAASPortal.Infrastructure\bin\Debug\net9.0\SAASPortal.Infrastructure.pdb
+E:\Projects\.NET\SAASPortal\SAASPortal.Infrastructure\bin\Debug\net9.0\SAASPortal.Core.dll
+E:\Projects\.NET\SAASPortal\SAASPortal.Infrastructure\bin\Debug\net9.0\SAASPortal.Core.pdb
+E:\Projects\.NET\SAASPortal\SAASPortal.Infrastructure\obj\Debug\net9.0\SAASPortal.Infrastructure.csproj.AssemblyReference.cache
+E:\Projects\.NET\SAASPortal\SAASPortal.Infrastructure\obj\Debug\net9.0\SAASPortal.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\.NET\SAASPortal\SAASPortal.Infrastructure\obj\Debug\net9.0\SAASPortal.Infrastructure.AssemblyInfoInputs.cache
+E:\Projects\.NET\SAASPortal\SAASPortal.Infrastructure\obj\Debug\net9.0\SAASPortal.Infrastructure.AssemblyInfo.cs
+E:\Projects\.NET\SAASPortal\SAASPortal.Infrastructure\obj\Debug\net9.0\SAASPortal.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Projects\.NET\SAASPortal\SAASPortal.Infrastructure\obj\Debug\net9.0\SAASPort.B1552481.Up2Date
+E:\Projects\.NET\SAASPortal\SAASPortal.Infrastructure\obj\Debug\net9.0\SAASPortal.Infrastructure.dll
+E:\Projects\.NET\SAASPortal\SAASPortal.Infrastructure\obj\Debug\net9.0\refint\SAASPortal.Infrastructure.dll
+E:\Projects\.NET\SAASPortal\SAASPortal.Infrastructure\obj\Debug\net9.0\SAASPortal.Infrastructure.pdb
+E:\Projects\.NET\SAASPortal\SAASPortal.Infrastructure\obj\Debug\net9.0\ref\SAASPortal.Infrastructure.dll

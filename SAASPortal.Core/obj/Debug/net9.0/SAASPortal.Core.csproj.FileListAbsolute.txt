@@ -1,0 +1,12 @@
+E:\Projects\.NET\SAASPortal\SAASPortal.Core\bin\Debug\net9.0\SAASPortal.Core.deps.json
+E:\Projects\.NET\SAASPortal\SAASPortal.Core\bin\Debug\net9.0\SAASPortal.Core.dll
+E:\Projects\.NET\SAASPortal\SAASPortal.Core\bin\Debug\net9.0\SAASPortal.Core.pdb
+E:\Projects\.NET\SAASPortal\SAASPortal.Core\obj\Debug\net9.0\SAASPortal.Core.csproj.AssemblyReference.cache
+E:\Projects\.NET\SAASPortal\SAASPortal.Core\obj\Debug\net9.0\SAASPortal.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\.NET\SAASPortal\SAASPortal.Core\obj\Debug\net9.0\SAASPortal.Core.AssemblyInfoInputs.cache
+E:\Projects\.NET\SAASPortal\SAASPortal.Core\obj\Debug\net9.0\SAASPortal.Core.AssemblyInfo.cs
+E:\Projects\.NET\SAASPortal\SAASPortal.Core\obj\Debug\net9.0\SAASPortal.Core.csproj.CoreCompileInputs.cache
+E:\Projects\.NET\SAASPortal\SAASPortal.Core\obj\Debug\net9.0\SAASPortal.Core.dll
+E:\Projects\.NET\SAASPortal\SAASPortal.Core\obj\Debug\net9.0\refint\SAASPortal.Core.dll
+E:\Projects\.NET\SAASPortal\SAASPortal.Core\obj\Debug\net9.0\SAASPortal.Core.pdb
+E:\Projects\.NET\SAASPortal\SAASPortal.Core\obj\Debug\net9.0\ref\SAASPortal.Core.dll
